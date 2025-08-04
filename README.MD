@@ -10,19 +10,30 @@ This results in a discrete bottleneck that is trained via backpropagation using 
 The decoder then reconstructs the image from these discrete codes.
 
 
---
-##✅ Final reconstruction loss after 20 epochs: ~0.061 on CIFAR-10.
+## ✅ Final reconstruction loss after 20 epochs: ~0.061 on CIFAR-10.
+---
 
 ---
-📊 WandB Logs
+## 📊 WandB Logs
+
 All training metrics, including reconstruction visuals and loss curves, are available at:
 
 🔗 https://wandb.ai/atharv3105-dr-a-p-j-abdul-kalam-technical-university/VQ_VAE/runs/pv8vq2cc?nw=nwuseratharv3105
 
 
 ---
-📚 Reference
+## 📚 Reference
+
 This implementation is based on the paper:  
 👉 [Neural Discrete Representation Learning (VQ-VAE) – van den Oord et al., 2017](https://arxiv.org/abs/1711.00937)
 
+--- 
+## 🧪 Visual Results
+
+Below is a sample of the input images (top row) and their reconstructions (bottom row) after training:
+
+<p align="center"> <strong>Input Images</strong><br> <img src="saves/input_14.png" alt="Input Images" width="600"/> </p> <p align="center"> <strong>Reconstructed Images</strong><br> <img src="saves/recon_14.png" alt="Reconstructed Images" width="600"/> </p>
+
+---
+<p align="center"> <strong>Input Images</strong><br> <img src="saves/input_18.png" alt="Input Images" width="600"/> </p> <p align="center"> <strong>Reconstructed Images</strong><br> <img src="saves/recon_18.png" alt="Reconstructed Images" width="600"/> </p>
 
