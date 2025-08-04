@@ -1,0 +1,10 @@
+{"time":"2025-08-03T07:20:09.9037044+05:30","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-03T07:20:10.3513032+05:30","level":"INFO","msg":"stream: created new stream","id":"8iahh88k"}
+{"time":"2025-08-03T07:20:10.3513032+05:30","level":"INFO","msg":"stream: started","id":"8iahh88k"}
+{"time":"2025-08-03T07:20:10.3513032+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8iahh88k"}
+{"time":"2025-08-03T07:20:10.3513032+05:30","level":"INFO","msg":"sender: started","stream_id":"8iahh88k"}
+{"time":"2025-08-03T07:20:10.3513032+05:30","level":"INFO","msg":"handler: started","stream_id":"8iahh88k"}
+{"time":"2025-08-03T08:02:44.8744487+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/atharv3105-dr-a-p-j-abdul-kalam-technical-university/VQ_VAE/8iahh88k/file_stream\": read tcp 192.168.1.10:56110->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-08-03T10:56:16.9513364+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/atharv3105-dr-a-p-j-abdul-kalam-technical-university/VQ_VAE/8iahh88k/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-03T10:56:19.0299533+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/atharv3105-dr-a-p-j-abdul-kalam-technical-university/VQ_VAE/8iahh88k/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-03T11:26:16.9971452+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/atharv3105-dr-a-p-j-abdul-kalam-technical-university/VQ_VAE/8iahh88k/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

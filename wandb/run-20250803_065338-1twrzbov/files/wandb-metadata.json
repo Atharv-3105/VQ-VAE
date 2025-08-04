@@ -1,0 +1,24 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-08-03T01:23:38.396841Z",
+  "program": "d:\\Atharva\\Implementations\\VQGAN\\model.ipynb",
+  "codePath": "model.ipynb",
+  "codePathLocal": "model.ipynb",
+  "email": "atharvdwivedi8@gmail.com",
+  "root": "d:\\Atharva\\Implementations\\VQGAN",
+  "host": "LAPTOP-I3CGMBQJ",
+  "executable": "c:\\Python\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "338353451008",
+      "used": "53705973760"
+    }
+  },
+  "memory": {
+    "total": "13771653120"
+  },
+  "writerId": "zgfho7zo82lu2d4v72deu6ll2ojgr1l6"
+}
